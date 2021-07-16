@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kishan. I'm expert in shopify,Shopify Plus, React, WordPress, CI and Wix Development as well Designing.
+- 👋 Hi, I'm expert in shopify,Shopify Plus, React, WordPress, CI and Wix Development as well Designing.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Phython and ROR.
 - 💞️ I’m looking to collaborate on a peoject,Company and Agency.
