@@ -1,0 +1,150 @@
+{
+  "sections": {
+    "1630748393c15b25c6": {
+      "type": "rich-text-new",
+      "blocks": {
+        "1630748393d0c4d443-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Healthy Food Restaurant",
+            "heading_size": "h0"
+          }
+        },
+        "1630748393d0c4d443-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630748393d0c4d443-0",
+        "1630748393d0c4d443-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "163074750172ec786c": {
+      "type": "image_with_text_new",
+      "blocks": {
+        "16307475013c242692-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discount up to  50% All Menu"
+          }
+        },
+        "16307475013c242692-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.<\/p>"
+          }
+        },
+        "16307475013c242692-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "READ MORE",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "16307475013c242692-0",
+        "16307475013c242692-1",
+        "16307475013c242692-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Place_Your_Image_Here_Double_Click_to_Edit_2.png",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1630747634e46592a9": {
+      "type": "image_with_text_new",
+      "blocks": {
+        "16307476348df8bb3f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "January’s Promo: Buy 1 Get 1 Free!"
+          }
+        },
+        "16307476348df8bb3f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.<\/p>"
+          }
+        },
+        "16307476348df8bb3f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "READ MORE",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "16307476348df8bb3f-0",
+        "16307476348df8bb3f-1",
+        "16307476348df8bb3f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Place_Your_Image_Here_Double_Click_to_Edit_3.png",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1630749093da195984": {
+      "type": "multi_column_new",
+      "blocks": {
+        "1630749093c6f7ac73-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_6.png",
+            "title": "Order",
+            "text": "<p>Lorem ipsum dolor sit amet, consecte sectetur adipisicing elit, tation omne  ullamco laboris nisi ut aliqolore.<\/p>"
+          }
+        },
+        "1630749093c6f7ac73-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_7.png",
+            "title": "Choose Menu",
+            "text": "<p>Lorem ipsum dolor sit amet, consecte sectetur adipisicing elit, tation omne  ullamco laboris nisi ut aliqolore.<\/p>"
+          }
+        },
+        "1630749093c6f7ac73-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_8.png",
+            "title": "Delivery",
+            "text": "<p>Lorem ipsum dolor sit amet, consecte sectetur adipisicing elit, tation omne  ullamco laboris nisi ut aliqolore.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630749093c6f7ac73-0",
+        "1630749093c6f7ac73-1",
+        "1630749093c6f7ac73-2"
+      ],
+      "settings": {
+        "title": "How to order",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    }
+  },
+  "order": [
+    "1630748393c15b25c6",
+    "163074750172ec786c",
+    "1630747634e46592a9",
+    "1630749093da195984"
+  ]
+}
